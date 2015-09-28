@@ -1,31 +1,35 @@
 ##Things I Suck At:
-* Avoiding overqualified selectors
-* Advanced CSS selectors
 * ARIA
-* BEM naming conventions
 * CSS for states other than *hover, etc* on links
-* Attribute selectors
 * Understanding why selectors are inefficient
 * Caching headers
-* CSS animation
 * The network/performance side of RWD
 
 ##Things I'm Getting a Handle On:
-* Dividing my CSS *a-la* SMACSS
-* Semantic HTML
+* CSS animation
 * Advanced tricks in Sublime Text
 * Node servers
-* npm
 * Specificity
 * The canvas element
 * The layout side of RWD
+* BEM naming conventions
+* Structuring Sass files
+* Keeping styles and structure separate
+* Parsing a comp into a Sass plan
 
 ##Things I'm Good At:
 * The box-content model
+* Avoiding overqualified selectors
+* Advanced CSS selectors
+* Nesting Sass
+* Sass variable structures
+* Semantic HTML
+* Attribute selectors
 * Navigating in the Terminal
 * Basics of Sublime
 * Finding typos
 * Z-index
+* npm
 * Git workflow
   * Initializing a git repo
   * Cloning a git repo
@@ -36,6 +40,4 @@
 * Project management
   * Time management
   * Chunking of tasks
-
-##Things I've Done But Need to Review:
-* setting up shortcuts in my bash_rc
+  * Team communication
